@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1705.2
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplicitCastingExample", "ImplicitCastingExample.csproj", "{2CB3B100-A359-4F36-993D-EAC2C8538375}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConversionExample", "TypeConversionExample.csproj", "{2CB3B100-A359-4F36-993D-EAC2C8538375}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
